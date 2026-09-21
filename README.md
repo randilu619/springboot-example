@@ -1,4 +1,4 @@
-# springboot-example
+
 # Spring Boot Example Application
 
 A sample Spring Boot application integrated with automated code analysis and CI/CD quality gates using **SonarQube Cloud** and **GitHub Actions**.
